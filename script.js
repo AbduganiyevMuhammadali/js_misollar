@@ -1,0 +1,13 @@
+"use strict";
+let incr = 12;
+console.log(++incr);
+let dcr = 12;
+console.log(--dcr);
+let x = 245 ;
+let y = 3 ;
+let c = x % y ;
+console.log(c);
+console.log(3*4 == 12 || 23* 2 == 46);
+console.log(12*2 == 24 || 23  * 23 == 234);
+console.log( 12 * 232 == 23 && 23 + 23 ==23);
+console.log(12*3 == 36 && 22*4 == 88);
